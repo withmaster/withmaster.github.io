@@ -1,7 +1,9 @@
 # main links
 main:
+  # url
   - title: "블로그 방문하기"
     url: https://devinlife.com/
+  # permlink
   - title: "About"
     url: /about/
 
