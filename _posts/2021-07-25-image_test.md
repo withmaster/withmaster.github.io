@@ -9,5 +9,9 @@ tags:
   - Web
   - Blog
 ---
+* 구글 드라이브 이미지
+![테스트 이미지1](https://drive.google.com/file/d/1CYWhiee5skjEcDNq6rUgA_Y0c2u1iAds/view?usp=sharing)
 
-![테스트 이미지](https://drive.google.com/file/d/1CYWhiee5skjEcDNq6rUgA_Y0c2u1iAds/view?usp=sharing)
+
+* 원드라이브 이미지
+![테스트 이미지2](https://1drv.ms/u/s!Are3ORDfWzobhLEgg7ZNYeAGz1jVwQ?e=uObiRf)
