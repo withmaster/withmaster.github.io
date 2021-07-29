@@ -17,7 +17,7 @@ tags:
 
 # 검색 사이트 등록
 
-# Google Search Console과 Google Analytics알아보기
+## Google Search Console과 Google Analytics알아보기
 
 - Google Search Console
     - 구글 검색 엔진에 웹사이트가 검색되도록 등록해주고, 구글 검색 결과가 어떻게 이뤄지고 있는지 모니터링 결과도 알려준다.
@@ -25,7 +25,7 @@ tags:
 - Google Analytics
     - 웹분석 도구로 구글 검색 엔진과는 별개로 사람들이 본인의 웹사이트를 어떻게 사용하는지 효과적으로 파악할 수 있게 해준다.
     - Google search Console에서 구글 검색 엔진을 통해서 웹사이트에 유입되는 방문자 정보를 확인 할 수 있다면 Google Analytics는 웹사이트로 유입되는 모든 방문자의 정보를 확인할 수 있다. 이 방문자의 유입 경로는 네이버 검색, 다음 검색, 타사이트 추천, 직접 입력 등이 모두 포함된다. 이 외에도 방문자의 위치, 네트워크, 사용 기기 등의 정보도 확인할 수 있다. 이런 정보를 통해 주 방문자들의 현황을 파악하고 웹사이트 이용 만족도를 개선해서 더 좋은 웹사이트를 만들 수 있다.
-1. Google Search Console 등록하기
+### Google Search Console 등록하기
     - Google Search Console 홈페이지
 
         [Google Search Console](https://search.google.com/search-console/about)
@@ -59,7 +59,7 @@ tags:
 
         ![https://withmaster.github.io/assets/images/2021-07-29-search_engine/Untitled%205.png](https://withmaster.github.io/assets/images/2021-07-29-search_engine/Untitled%205.png)
 
-2. Google Analytics 등록하기
+### Google Analytics 등록하기
 
     ![https://withmaster.github.io/assets/images/2021-07-29-search_engine/Untitled%206.png](https://withmaster.github.io/assets/images/2021-07-29-search_engine/Untitled%206.png)
 
@@ -93,7 +93,7 @@ tags:
 
             ![https://withmaster.github.io/assets/images/2021-07-29-search_engine/Untitled%2012.png](https://withmaster.github.io/assets/images/2021-07-29-search_engine/Untitled%2012.png)
 
-3. Naver 검색 등록
+## Naver 검색 등록
     - 네이버 웹 마스터
 
         [네이버 서치어드바이저](https://searchadvisor.naver.com/)
@@ -119,7 +119,7 @@ tags:
 
         ![https://withmaster.github.io/assets/images/2021-07-29-search_engine/Untitled%2017.png](https://withmaster.github.io/assets/images/2021-07-29-search_engine/Untitled%2017.png)
 
-4. Bing
+## Bing
     - bing 웹마스터
 
         [Bing Webmaster Tools](https://www.bing.com/webmasters/about)
@@ -128,7 +128,7 @@ tags:
 
         ![https://withmaster.github.io/assets/images/2021-07-29-search_engine/Untitled%2018.png](https://withmaster.github.io/assets/images/2021-07-29-search_engine/Untitled%2018.png)
 
-5. Daum
+## Daum
     - 다음 검색등록
 
         [](https://register.search.daum.net/index.daum)

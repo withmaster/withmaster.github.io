@@ -17,10 +17,7 @@ tags:
 
 # 댓글 기능 등록
 
-# 개요
-
-# Disque 가입
-
+## Disque 가입
 - 홈페이지
 
     [](https://disqus.com/)
@@ -58,7 +55,7 @@ tags:
 
         ![https://withmaster.github.io/assets/images/2021-07-29-ad_comments/Untitled%206.png](https://withmaster.github.io/assets/images/2021-07-29-ad_comments/Untitled%206.png)
 
-# 블로그에 Disqus 정보 기입하기
+## 블로그에 Disqus 정보 기입하기
 
 - `_config.xml` 수정
 
@@ -70,7 +67,7 @@ tags:
 
     ![https://withmaster.github.io/assets/images/2021-07-29-ad_comments/Untitled%208.png](https://withmaster.github.io/assets/images/2021-07-29-ad_comments/Untitled%208.png)
 
-# 게시물에 댓글 기능 넣기
+## 게시물에 댓글 기능 넣기
 
 - `_config.xml` 수정 - post 게시물에 comments 기능 사용 설정
 

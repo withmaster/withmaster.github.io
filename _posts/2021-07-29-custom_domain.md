@@ -17,7 +17,7 @@ tags:
 
 # 개별 도메인 등록
 
-# 커스텀 도메인 등록
+## 커스텀 도메인 등록
 
 - 도메인 구입
     - www.withmaster.com
@@ -30,7 +30,7 @@ tags:
 
         [카페24 호스팅센터](https://hosting.cafe24.com/)
 
-# 커스텀 도메인 설정
+## 커스텀 도메인 설정
 
 1. 도메인 관리
 
@@ -42,7 +42,7 @@ tags:
 
     ![https://withmaster.github.io/assets/images/2021-07-29-custom_domain/Untitled%201.png](https://withmaster.github.io/assets/images/2021-07-29-custom_domain/Untitled%201.png)
 
-# Github pages 설정
+## Github pages 설정
 
 1. Settings - Pages 이동
 
@@ -56,7 +56,7 @@ tags:
 
 3. Enforce HTTPS 체크
 
-# 서브 도메인 등록
+## 서브 도메인 등록
 
 1. cafe24 - 도메인 부가 서비스 - DNS 관리 - 별칭(cName) 관리
 
