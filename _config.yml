@@ -20,7 +20,7 @@ title                    : "WithMaster"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "With Master "
-description              : "기술과 법을 다루는 공간입니다."
+description              : "계획, 실행, 점검"
 url                      : https://withmaster.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
