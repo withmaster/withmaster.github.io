@@ -2,10 +2,17 @@
 main:
   # url
   - title: "블로그 방문하기"
-    url: https://devinlife.com/
+    url: https://withmaster.com/
   # permlink
+  - title: "카테고리"
+    url: /categories/
+# permlink
+  - title: "태그"
+    url: /tags/
+# permlink
   - title: "About"
     url: /about/
+
 
 #main:
 #  - title: "Quick-Start Guide"
