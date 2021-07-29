@@ -22,7 +22,7 @@ tags:
 - 내 컴퓨터, github, Jekyll의 관계도
 - 지킬(Jekyll)은 루비(ruby)로 만든 정적 웹사이트 생성기(static websites generator)이다.
 
-![https://withmaster.github.io/assets/images/2021-07-29-github_intro/1_0.png](https://withmaster.github.io/assets/images/2021-07-29-github_intro/1.png)
+![https://withmaster.github.io/assets/images/2021-07-29-github_intro/1_0.png](https://withmaster.github.io/assets/images/2021-07-29-github_intro/1_0.png)
 
 ## 2. 설치하기
 
