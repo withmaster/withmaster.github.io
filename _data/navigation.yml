@@ -1,8 +1,5 @@
 # main links
 main:
-  # url
-  - title: "블로그 방문하기"
-    url: https://withmaster.com/
   # permlink
   - title: "카테고리"
     url: /categories/
@@ -10,7 +7,7 @@ main:
   - title: "태그"
     url: /tags/
 # permlink
-  - title: "About"
+  - title: "누구냐"
     url: /about/
 
 
