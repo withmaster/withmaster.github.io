@@ -18,18 +18,15 @@ tags:
   - '2020'
 ---
 
-# 수식 최대화
-
-### 개요
-* 검색 조건: Python3, Level 2
-* [프로그래머스 코딩테스트 연습 - 수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257?language=python3)
-
-### 작성자의 수준
+## 작성자의 수준
 * C언어를 사용하다 최근에 python을 공부하고 있습니다.
 * 파이썬의 유용한 기능들을 잘 몰라서 C언어처럼 작성하곤 합니다.
-* 아아악 마크 다운
 
-## 문제점
+## 문제
+* [프로그래머스 코딩테스트 연습 - 수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257?language=python3)
+* 검색 조건: Python3, Level 2
+
+## 요구 사항
 ### 1. 정리
 1. 문자열 형태의 수식이 주어진다.
 2. 수식에는 3개의 연산자 `+`, `-`, `*`가 주어진다.
@@ -45,7 +42,7 @@ tags:
 4. 절대값이 가장 큰 결과값을 반환한다.
 
 
-## Source Code
+## 소스 코드
 
 ```python
 def solution(expression):
@@ -118,5 +115,5 @@ def solution(expression):
     return answer[0]
 ```
 
-## 총평
+## 마무리
 * 남의 해설을 올릴 수는 없지만, 다른 사람의 코드를 보니 나의 solution은 정말 C언어에 가깝게 작성한 것을 느낄 수 있었다.
