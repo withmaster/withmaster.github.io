@@ -1,0 +1,32 @@
+---
+title:  "깃허브 개요"
+excerpt: "깃허브 셋업 과정을 정리한 1번째 페이지입니다."
+
+toc: true
+toc_sticky: true
+toc_label: "주요 목차"
+
+categories:
+  - 자료
+tags:
+  - 깃허브
+  - github
+  - blog
+  - 블로그
+---
+
+
+
+
+---
+title: "이 블로그 설명서"
+permalink: /about/
+layout: single
+---
+
+## withmaster.github.io 블로그
+
+이 블로그는 AI 교육 과정을 이수하면서 추가적으로 운영하는 기술 블로그이다.
+
+이 블로그의 custom domain은 <https://withmaster.com>이다.
+
