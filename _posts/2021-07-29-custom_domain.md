@@ -15,7 +15,7 @@ tags:
   - 블로그
 ---
 
-<<<<<<< HEAD
+
 # 개별 도메인 등록
 
 ## 커스텀 도메인 등록
@@ -63,14 +63,12 @@ tags:
       - `185.199.108.153` ~ `185.199.111.153` 중에 하나를 입력한다.
     - 별칭(CNMAE) 관리
       - `www`, `withmaster.github.io` 입력한다.
->>>>>>> b9beeb50e407551c3c848c5c717d5e64c3ddef33
 
     ![https://withmaster.github.io/assets/images/2021-07-29-custom_domain/Untitled%201.png](https://withmaster.github.io/assets/images/2021-07-29-custom_domain/Untitled%201.png)
 
 ## Github pages 설정
 
 1. Settings - Pages 이동
-<<<<<<< HEAD
 
     ![https://withmaster.github.io/assets/images/2021-07-29-custom_domain/Untitled%202.png](https://withmaster.github.io/assets/images/2021-07-29-custom_domain/Untitled%202.png)
 
@@ -89,13 +87,11 @@ tags:
     ![https://withmaster.github.io/assets/images/2021-07-29-custom_domain/Untitled%205.png](https://withmaster.github.io/assets/images/2021-07-29-custom_domain/Untitled%205.png)
 
 2. GitHub Pages - 서브 도메인 입력 - save
-=======
     * Your site is published at https://username.github.io가 떠 있으면 정상적으로 호스팅하고 있음을 의미한다.
     ![https://withmaster.github.io/assets/images/2021-07-29-custom_domain/Untitled%202.png](https://withmaster.github.io/assets/images/2021-07-29-custom_domain/Untitled%202.png)
 
-2. Custom domain - Save  
+3. Custom domain - Save  
     ![https://withmaster.github.io/assets/images/2021-07-29-custom_domain/Untitled%203.png](https://withmaster.github.io/assets/images/2021-07-29-custom_domain/Untitled%203.png)
     ![https://withmaster.github.io/assets/images/2021-07-29-custom_domain/Untitled%204.png](https://withmaster.github.io/assets/images/2021-07-29-custom_domain/Untitled%204.png)
 
-3. Enforce HTTPS 체크한다.
->>>>>>> b9beeb50e407551c3c848c5c717d5e64c3ddef33
+4. Enforce HTTPS 체크한다.
