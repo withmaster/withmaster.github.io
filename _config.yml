@@ -19,11 +19,11 @@ locale                   : "en-US"
 title                    : "WithMaster"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "With Master "
+name                     : "전문가와 함께 - With Master"
 description              : "계획, 실행, 점검"
 url                      : https://withmaster.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "withmaster/withmaster.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/500×300.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/88×88.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -36,16 +36,13 @@ comments:
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
-    # https://developers.facebook.com/docs/plugins/comments
+      # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
   utterances:
     theme                : "boxy-light" # "github-light" (default), "github-dark"
     issue_term           : "pathname" # (default)
-    label                : "Comments"
-    repo                 : "withmaster/withmaster.github.io"
-    src                  : "https://utteranc.es/client.js"
   giscus:
     repo_id              : # Shown during giscus setup at https://giscus.app
     category_name        : # Full text name of the category
