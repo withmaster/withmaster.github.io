@@ -1,10 +1,6 @@
 # main links
 main:
-<<<<<<< HEAD
-  # permlink
-=======
 # permlink
->>>>>>> b9beeb50e407551c3c848c5c717d5e64c3ddef33
   - title: "CATEGORY"
     url: /categories/
 # permlink
@@ -15,15 +11,10 @@ main:
     url: /about/
 
 
-<<<<<<< HEAD
-#main:
-#  - title: "Quick-Start Guide"
-#    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-=======
-  #main:
+
+# main:
   #  - title: "Quick-Start Guide"
   #    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
->>>>>>> b9beeb50e407551c3c848c5c717d5e64c3ddef33
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
