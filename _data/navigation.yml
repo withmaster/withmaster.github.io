@@ -5,13 +5,13 @@ main:
 =======
 # permlink
 >>>>>>> b9beeb50e407551c3c848c5c717d5e64c3ddef33
-  - title: "카테고리"
+  - title: "CATEGORY"
     url: /categories/
 # permlink
-  - title: "태그"
+  - title: "TAGS"
     url: /tags/
 # permlink
-  - title: "누구냐"
+  - title: "ABOUT"
     url: /about/
 
 
