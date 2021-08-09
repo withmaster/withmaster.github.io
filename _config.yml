@@ -30,7 +30,7 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "utterances"  # 블로그 댓글 기능 false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider               : # 블로그 댓글 기능 false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
     shortname            : # "withmaster-github-io" # 블로그 댓글 기능 https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -41,8 +41,8 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
   utterances:
-    theme                : "boxy-light" # "github-light" (default), "github-dark"
-    issue_term           : "pathname" # (default)
+    theme                : # "boxy-light" # "github-light" (default), "github-dark"
+    issue_term           : # "pathname" # (default)
   giscus:
     repo_id              : # Shown during giscus setup at https://giscus.app
     category_name        : # Full text name of the category
@@ -285,6 +285,6 @@ defaults:
       author_profile: true
       read_time: false # true
       show_date: true # read_time: false로 바꾸고, 새로 추가된 코드
-      comments: true # 블로그 댓글 기능
+      comments: false # true # 블로그 댓글 기능
       share: true
       related: true
