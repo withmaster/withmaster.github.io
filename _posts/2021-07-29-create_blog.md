@@ -7,7 +7,7 @@ toc_sticky: true
 toc_label: "주요 목차"
 
 categories:
-  - blog
+  - 블로그
 tags:
   - github
   - hosting

@@ -7,7 +7,7 @@ toc_sticky: true
 toc_label: "주요 목차"
 
 categories:
-  - 데이터사이언스
+  - 데이터 사이언스
 tags:
   - data
   - MachineLearning
