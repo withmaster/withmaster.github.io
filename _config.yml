@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Steve Lee"
-  avatar           : "/assets/images/500×300.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/mintpizza-500×300.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Zero To One"
   location         : "Seoul, South Korea"
   email            : fanshape@gmail.com
