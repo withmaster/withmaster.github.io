@@ -47,7 +47,7 @@ tags:
 
     ![https://withmaster.github.io/assets/images/2021-08-10-data_population/Untitled%206.png](https://withmaster.github.io/assets/images/2021-08-10-data_population/Untitled%206.png)
 
-## 예시 - 2020년 10월 전국 인구 및 세대 현황 다운 받기
+## 3. 2020년 10월 전국 인구 및 세대 현황 다운받아 보기
 
 - 별도로 조작해볼 예정이므로 기간을 제외하고는 특별히 설정은 없습니다.
 1. 행정구역
