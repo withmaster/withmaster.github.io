@@ -7,10 +7,10 @@ toc_sticky: true
 toc_label: "주요 목차"
 
 categories:
-  - 자료
+  - 데이터사이언스
 tags:
-  - 데이터
   - data
+  - MachineLearning
 ---
 
 

@@ -9,13 +9,10 @@ toc_label: "주요 목차"
 categories:
   - 코딩 테스트
 tags:
-  - 프로그래머스
   - programmers
   - python
-  - python3
   - Level 1
-  - 카카오
-  - 인턴쉽
+  - Kakao
 ---
 
 # 개요

@@ -9,13 +9,10 @@ toc_label: "주요 목차"
 categories:
   - 코딩 테스트
 tags:
-  - 프로그래머스
   - programmers
   - python
-  - python3
   - Level 2
-  - 카카오
-  - '2020'
+  - Kakao
 ---
 
 

@@ -7,12 +7,11 @@ toc_sticky: true
 toc_label: "주요 목차"
 
 categories:
-  - 자료
-tags:
-  - 깃허브
-  - github
-  - blog
   - 블로그
+tags:
+  - github
+  - Search
+
 ---
 
 ## Google Search Console 등록하기
