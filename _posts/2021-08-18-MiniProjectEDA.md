@@ -11,7 +11,7 @@ categories:
 tags:
   - data accquisition
   - MachineLearning
-
+---
 
 ## 1. Intro
 
@@ -19,19 +19,20 @@ tags:
     - 데이터를 보는 것을 좋아하는 직장인입니다.
     - 신용카드 사용자의 데이터를 이용하여 연체를 예측하는 EDA입니다.
     - 분류형 데이터를 위주로 분석을 할 예정입니다.
+    - [colab 작업 파일 링크](https://colab.research.google.com/drive/1VL7FzXI2zuNNZ4S1zPVVstu-LyVaEqx8?usp=sharing)
 2. 참고 자료
 
-    [https://dacon.io/competitions/official/235713/codeshare/2607?page=3&dtype=recent](https://dacon.io/competitions/official/235713/codeshare/2607?page=3&dtype=recent)
+    [데이콘 페이지](https://dacon.io/competitions/official/235713/codeshare/2607?page=3&dtype=recent)
 
+    [데이터 변수 설명](https://www.dacon.io/competitions/official/235713/talkboard/402821/)
+    
     [나이와 소득의 관점으로 풀어보는 데이터 탐색(EDA)](https://dacon.io/competitions/official/235713/codeshare/2607?page=3&dtype=recent)
 
-    [](https://dacon.io/competitions/official/235713/codeshare/2519?page=3&dtype=recent)
+    [신용카드 예측 EDA](https://dacon.io/competitions/official/235713/codeshare/2519?page=3&dtype=recent)
 
     [입문자의 투박한 EDA](https://dacon.io/competitions/official/235713/codeshare/2494?page=4&dtype=recent)
-
-    [[데이터] 데이터 변수 설명](https://www.dacon.io/competitions/official/235713/talkboard/402821/)
-
-    [](https://www.kaggle.com/nadintamer/titanic-survival-predictions-beginner)
+    
+    [Titanic Survival Predictions (Beginner)](https://www.kaggle.com/nadintamer/titanic-survival-predictions-beginner)
 
 3.  라이브러리(Library)
 
