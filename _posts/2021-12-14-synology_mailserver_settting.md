@@ -1,23 +1,23 @@
 ---
 title:  "Synology DSM 7.0에서 메일 서비스 이용하기"
-excerpt: "Synology DSM 7.0에서 mailplus server를 이용해서 메일 서버 설정하기"
+excerpt: "Synology DSM 7.0에서 mailplus server를 설정해서 나만의 도메인을 메일에도 사용해보기"
 
 toc: true
 toc_sticky: true
 toc_label: "주요 목차"
 
 categories:
-  - NAS
+  - 장치
 tags:
-  - data accquisition
-  - MachineLearning
+  - NAS
+  - tips  
 ---
 
 
-## 인트로
+## Why?
 
 - 일을 하다보면 회사 업무 외의 일을 할 때가 있고, personal branding 차원에서 개별 도메인에 연결된 메일이 있으면 좋겠다는 생각을 종종하게 된다.
-- 개인적인 추천은 [google workspace](https://workspace.google.com/intl/ko/products/gmail/?utm_source=google&utm_medium=cpc&utm_campaign=1010746-Workspace-APAC-KR-ko-BKWS-EXA-Golden&utm_content=text-ad-none-none-DEV_c-CRE_470902874128-ADGP_Hybrid%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20G%20Suite-KWID_43700058413758937-kwd-836977539265&userloc_1009871-network_g=&utm_term=KW_%EA%B5%AC%EA%B8%80%20suite&gclid=CjwKCAiA-9uNBhBTEiwAN3IlNHmXLs3y_4Z2aeh1x1AWLR-mT-asDud3S6o53sfbsYJzJ0NdCeWM7RoCBX4QAvD_BwE&gclsrc=aw.ds)의 맞춤 이메일 서비스를 이용하는게 설정이 굉장히 편하기 때문에 아주 좋은 선택이다.  다만, NAS를 사용하고 있으니 mail server를 설정해서 사용해보고자 한다.
+- 개인적인 추천은 [google workspace](https://workspace.google.com/intl/ko/products/gmail/?utm_source=google&utm_medium=cpc&utm_campaign=1010746-Workspace-APAC-KR-ko-BKWS-EXA-Golden&utm_content=text-ad-none-none-DEV_c-CRE_470902874128-ADGP_Hybrid%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20G%20Suite-KWID_43700058413758937-kwd-836977539265&userloc_1009871-network_g=&utm_term=KW_%EA%B5%AC%EA%B8%80%20suite&gclid=CjwKCAiA-9uNBhBTEiwAN3IlNHmXLs3y_4Z2aeh1x1AWLR-mT-asDud3S6o53sfbsYJzJ0NdCeWM7RoCBX4QAvD_BwE&gclsrc=aw.ds)의 맞춤 e-mail 서비스를 이용하는게 설정이 굉장히 편하기 때문에 아주 좋은 선택이다.  다만, NAS를 사용하고 있으니 mail server를 설정해서 사용해보고자 한다.
 - 굉장히 어려울 것으로 예상했었지만, 메일 송신 수신 기능이 되게만 하는건 생각보다 쉽다.
 
 ## 주요 참고 자료
@@ -26,7 +26,7 @@ tags:
     1. 시스템 : DSM 7.0
     2. 패키지 : Synology MailPlus
     3. 날짜 범위 : 작년
-    - 이메일 작동 방식을 이해하고 싶다면 [여기](https://kb.synology.com/ko-kr/DSM/tutorial/How_to_set_up_MailPlus_Server_on_your_Synology_NAS)를 참조하자.
+    - e-mail 작동 방식을 이해하고 싶다면 [여기](https://kb.synology.com/ko-kr/DSM/tutorial/How_to_set_up_MailPlus_Server_on_your_Synology_NAS)를 참조하자.
 - 블로그 `Gumu's treasure box`
     - 설정만을 원한다면 이걸 보면 됩니다.
     
@@ -38,7 +38,7 @@ tags:
     - [시놀로지NAS 메일서버 셋팅하기#1(이렇게하면 끝)-개요 및 구성](https://www.youtube.com/watch?list=PLHblzO-P7e_y0M2Qy11d_VWD32PuRRbX2&v=WlgK3OkZPKI&feature=emb_title)
     
 
-## 준비물
+## What?
 
 1. 도메인 네임(domain name)
     - [카페24](https://www.cafe24.com/login/)
@@ -54,8 +54,8 @@ tags:
         
         ![Untitled](https://withmaster.github.io/assets/images/2021-12-14-synology_mailserver_settting/Untitled.png)
         
-
-## DNS 설정([cafe24](https://www.cafe24.com/login/))
+## How?
+### DNS 설정([cafe24](https://www.cafe24.com/login/))
 
 - 왼쪽 창 `DNS 관리` - `example.com` 선택 - 선택한 도메인 `DNS 관리` 선택
 
@@ -84,7 +84,7 @@ tags:
             - [참고 자료](https://kb.synology.com/ko-kr/DSM/help/MailPlus-Server/mailplus_server_multiple_domains?version=7)
             - Synology mailplus server 설정
                 - Synology mailplus server - 도메인 - 편집 - 일반 - 고급 이동
-                    1. 아웃바운드 이메일에서 DKIM 서명 활성화 - 체크
+                    1. 아웃바운드 e-mail에서 DKIM 서명 활성화 - 체크
                     2. `DKIM 선택기 접두어`: `example` 
                         - 마음에 드는 문자열을 입력하면 됩니다.
                 - 공용 키 생성 - 선택
@@ -102,7 +102,7 @@ tags:
             ![Untitled](https://withmaster.github.io/assets/images/2021-12-14-synology_mailserver_settting/Untitled%203.png)
     
 
-## 공유기 포트 포워딩 설정([iptime](http://192.168.0.1/))
+### 공유기 포트 포워딩 설정([iptime](http://192.168.0.1/))
 
 - [Synology Knowledge center 참조](https://kb.synology.com/ko-kr/DSM/help/MailPlus-Server/mailplus_server_creation?version=7)
     
@@ -116,7 +116,7 @@ tags:
         ![Untitled](https://withmaster.github.io/assets/images/2021-12-14-synology_mailserver_settting/Untitled%205.png)
     
 
-## 서버 설정(Synology)
+### 서버 설정(Synology)
 
 1. 프로그램 설치
     - synology maiplus server와 synology mailplus를 설치합니다.
@@ -164,7 +164,7 @@ tags:
     - 개인용
         - [참고 자료](https://kb.synology.com/ko-kr/DSM/help/MailPlus-Server/mailplus_server_personal?version=7)
 
-## 후기
+## 마무리
 
 - 위와 같이 설정하고, 메일을 보내니 잘 가고 잘 옵니다.
 - 인증서와 관련된 부분은 [여기](https://gumu.kr/blog/218/mailplus3/)를 참고하세요.
