@@ -21,13 +21,14 @@ tags:
 - 하지만, image file의 붙여넣기나 블록 단위로 편집을 하는 것도 은근히 귀찮습니다.
 - notion은 뛰어난 편집 기능을 제공하고 있는데, markdown 포맷을 내보내기를 지원하고 있으니 활용해 보아야겠죠.
 
-## How?
+## What?
 
-1. 준비물
-    - github 블로그
-    - notion 계정
-2. notion에서 글 작성하기
-3. markdown file로 내보내기
+- github 블로그
+- notion 계정
+
+## How?
+1. notion에서 글 작성하기
+2. markdown file로 내보내기
     - `…` 선택하고, 내보내기(export) 선택
   
         ![Untitled](https://withmaster.github.io/assets/images/2021-12-14-notion_to_github/Untitled.png)
@@ -37,18 +38,18 @@ tags:
         
         ![Untitled](https://withmaster.github.io/assets/images/2021-12-14-notion_to_github/Untitled%201.png)
         
-4. 압축 해제
+3. 압축 해제
    - 압축을 해제하면  아래와 같이 image 폴더와 markdown file(md)이 생성됩니다.
     
     ![Untitled](https://withmaster.github.io/assets/images/2021-12-14-notion_to_github/Untitled%202.png)
     
-5. 폴더명 및 file명 수정하기
+4. 폴더명 및 file명 수정하기
     - 폴더명 및 file명은 각자의 naming rule에 따라 설정하면 됩니다.
     - github 블로그의 경우 보통 `yyyy-mm-dd-title` 형태로 많이 사용하므로 포스팅 날짜 기준으로 2021-12-14-notion_to_github로 둘 다 변경하였습니다.
         
         ![Untitled](https://withmaster.github.io/assets/images/2021-12-14-notion_to_github/Untitled%203.png)
         
-6. image 폴더 업로드 하기
+5. image 폴더 업로드 하기
     - 2021-12-14-notion_to_github 폴더를 내 컴퓨터에서 블로그를 github 블로그를 관리하는 폴더 아래에 있는 assests 폴더로 옮깁니다.
     - 참고로 github에 용량 제한이 있긴 하지만, notion에서 내보내기를 하면 image 하나당 100kb정도로 조정하기 때문에 크게 신경쓰지 않아도 됩니다.
         
@@ -62,7 +63,7 @@ tags:
         git push -u origin master
         ```
         
-7. markdown file(*.md) 수정하기
+6. markdown file(*.md) 수정하기
     - VSC(Visual Studio Code)에서 미리보기가 가능하므로, VSC를 에디터로 사용합니다.
     - YFM 추가하기
         - YFM은 YAML Front Matter라고 하여 오픈 소스 프로젝트에서 많이 사용하는 구조화된 데이터 형식입니다.
@@ -127,7 +128,7 @@ tags:
         ```
         
 
-## 마무리
+## 후기
 
 - image file이 없거나 YFM을 사용하지 않는다면 markdown file을 수정할 일이 없어서 내보내기한 file을 바로 업로드 해도 됩니다.
 - 이전에 업로드한 markdown file에서 YFM을 복사해서 붙여넣고, image file의 경로는 찾아 바꾸기(ctrl + h)로 한번에 변경할 수 있으니 익숙해지면, 한 번의 업로드로 작업을 끝낼 수 있어서 시간이 그리 오래 걸리진 않습니다.

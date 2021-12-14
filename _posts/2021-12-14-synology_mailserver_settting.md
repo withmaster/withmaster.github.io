@@ -10,7 +10,7 @@ categories:
   - 장치
 tags:
   - NAS
-  - tips  
+  - tips
 ---
 
 
