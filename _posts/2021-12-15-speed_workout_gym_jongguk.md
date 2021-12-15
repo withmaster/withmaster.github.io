@@ -1,11 +1,16 @@
-# 운동할 시간이 없다는 사람에게 보여주세요... 제발 (feat. Gym종국)
+---
+title:  "운동할 시간이 없다는 사람에게 보여주세요... 제발 (feat. Gym종국)"
+excerpt: "운동 시간이 부족할 때, 수행하는 speed workout을 알아보자."
 
-Done: No
-Instructor: 김종국
-Platform: Youtube
-URL: https://www.youtube.com/watch?v=Hx8Lc_0hUaI
-posting: No
-생성 일시: 2021년 12월 15일 오후 8:06
+toc: true
+toc_sticky: true
+toc_label: "주요 목차"
+
+categories:
+  - 운동
+tags:
+  - health
+---
 
 ## Youtube 영상
 
@@ -22,80 +27,80 @@ posting: No
 
 1. 운동 가기 전에 자리에서 스트레칭은 미리 해두어야 합니다. 
     
-    ![Untitled](%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AF%20%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%B5%20%E1%84%8B%E1%85%A5%E1%86%B9%E1%84%83%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%89%E1%85%A1%E1%84%85%E1%85%A1%E1%86%B7%E1%84%8B%E1%85%A6%E1%84%80%E1%85%A6%20%E1%84%87%E1%85%A9%E1%84%8B%E1%85%A7%E1%84%8C%E1%85%AE%E1%84%89%E1%85%A6%E1%84%8B%E1%85%AD%20%E1%84%8C%E1%85%A6%2028061ab6604a46ceafdaf935b4a61da5/Untitled.png)
+    ![Untitled](https://withmaster.github.io/assets/images/2021-12-15-speed_workout_gym_jongguk/Untitled.png)
     
 2. 리버스 플라이22-10(8set) [2:46](https://www.youtube.com/watch?v=Hx8Lc_0hUaI&t=166s)
     
-    ![Untitled](%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AF%20%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%B5%20%E1%84%8B%E1%85%A5%E1%86%B9%E1%84%83%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%89%E1%85%A1%E1%84%85%E1%85%A1%E1%86%B7%E1%84%8B%E1%85%A6%E1%84%80%E1%85%A6%20%E1%84%87%E1%85%A9%E1%84%8B%E1%85%A7%E1%84%8C%E1%85%AE%E1%84%89%E1%85%A6%E1%84%8B%E1%85%AD%20%E1%84%8C%E1%85%A6%2028061ab6604a46ceafdaf935b4a61da5/Untitled%201.png)
+    ![Untitled](https://withmaster.github.io/assets/images/2021-12-15-speed_workout_gym_jongguk/Untitled%201.png)
     
-    ![Untitled](%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AF%20%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%B5%20%E1%84%8B%E1%85%A5%E1%86%B9%E1%84%83%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%89%E1%85%A1%E1%84%85%E1%85%A1%E1%86%B7%E1%84%8B%E1%85%A6%E1%84%80%E1%85%A6%20%E1%84%87%E1%85%A9%E1%84%8B%E1%85%A7%E1%84%8C%E1%85%AE%E1%84%89%E1%85%A6%E1%84%8B%E1%85%AD%20%E1%84%8C%E1%85%A6%2028061ab6604a46ceafdaf935b4a61da5/Untitled%202.png)
+    ![Untitled](https://withmaster.github.io/assets/images/2021-12-15-speed_workout_gym_jongguk/Untitled%202.png)
     
-    ![Untitled](%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AF%20%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%B5%20%E1%84%8B%E1%85%A5%E1%86%B9%E1%84%83%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%89%E1%85%A1%E1%84%85%E1%85%A1%E1%86%B7%E1%84%8B%E1%85%A6%E1%84%80%E1%85%A6%20%E1%84%87%E1%85%A9%E1%84%8B%E1%85%A7%E1%84%8C%E1%85%AE%E1%84%89%E1%85%A6%E1%84%8B%E1%85%AD%20%E1%84%8C%E1%85%A6%2028061ab6604a46ceafdaf935b4a61da5/Untitled%203.png)
+    ![Untitled](https://withmaster.github.io/assets/images/2021-12-15-speed_workout_gym_jongguk/Untitled%203.png)
     
 3. 티바 로우15-10(8set) [4:01](https://www.youtube.com/watch?v=Hx8Lc_0hUaI&t=241s)
     
-    ![Untitled](%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AF%20%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%B5%20%E1%84%8B%E1%85%A5%E1%86%B9%E1%84%83%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%89%E1%85%A1%E1%84%85%E1%85%A1%E1%86%B7%E1%84%8B%E1%85%A6%E1%84%80%E1%85%A6%20%E1%84%87%E1%85%A9%E1%84%8B%E1%85%A7%E1%84%8C%E1%85%AE%E1%84%89%E1%85%A6%E1%84%8B%E1%85%AD%20%E1%84%8C%E1%85%A6%2028061ab6604a46ceafdaf935b4a61da5/Untitled%204.png)
+    ![Untitled](https://withmaster.github.io/assets/images/2021-12-15-speed_workout_gym_jongguk/Untitled%204.png)
     
-    ![Untitled](%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AF%20%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%B5%20%E1%84%8B%E1%85%A5%E1%86%B9%E1%84%83%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%89%E1%85%A1%E1%84%85%E1%85%A1%E1%86%B7%E1%84%8B%E1%85%A6%E1%84%80%E1%85%A6%20%E1%84%87%E1%85%A9%E1%84%8B%E1%85%A7%E1%84%8C%E1%85%AE%E1%84%89%E1%85%A6%E1%84%8B%E1%85%AD%20%E1%84%8C%E1%85%A6%2028061ab6604a46ceafdaf935b4a61da5/Untitled%205.png)
+    ![Untitled](https://withmaster.github.io/assets/images/2021-12-15-speed_workout_gym_jongguk/Untitled%205.png)
     
-    ![Untitled](%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AF%20%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%B5%20%E1%84%8B%E1%85%A5%E1%86%B9%E1%84%83%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%89%E1%85%A1%E1%84%85%E1%85%A1%E1%86%B7%E1%84%8B%E1%85%A6%E1%84%80%E1%85%A6%20%E1%84%87%E1%85%A9%E1%84%8B%E1%85%A7%E1%84%8C%E1%85%AE%E1%84%89%E1%85%A6%E1%84%8B%E1%85%AD%20%E1%84%8C%E1%85%A6%2028061ab6604a46ceafdaf935b4a61da5/Untitled%206.png)
+    ![Untitled](https://withmaster.github.io/assets/images/2021-12-15-speed_workout_gym_jongguk/Untitled%206.png)
     
-    ![Untitled](%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AF%20%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%B5%20%E1%84%8B%E1%85%A5%E1%86%B9%E1%84%83%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%89%E1%85%A1%E1%84%85%E1%85%A1%E1%86%B7%E1%84%8B%E1%85%A6%E1%84%80%E1%85%A6%20%E1%84%87%E1%85%A9%E1%84%8B%E1%85%A7%E1%84%8C%E1%85%AE%E1%84%89%E1%85%A6%E1%84%8B%E1%85%AD%20%E1%84%8C%E1%85%A6%2028061ab6604a46ceafdaf935b4a61da5/Untitled%207.png)
+    ![Untitled](https://withmaster.github.io/assets/images/2021-12-15-speed_workout_gym_jongguk/Untitled%207.png)
     
-    ![Untitled](%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AF%20%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%B5%20%E1%84%8B%E1%85%A5%E1%86%B9%E1%84%83%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%89%E1%85%A1%E1%84%85%E1%85%A1%E1%86%B7%E1%84%8B%E1%85%A6%E1%84%80%E1%85%A6%20%E1%84%87%E1%85%A9%E1%84%8B%E1%85%A7%E1%84%8C%E1%85%AE%E1%84%89%E1%85%A6%E1%84%8B%E1%85%AD%20%E1%84%8C%E1%85%A6%2028061ab6604a46ceafdaf935b4a61da5/Untitled%208.png)
+    ![Untitled](https://withmaster.github.io/assets/images/2021-12-15-speed_workout_gym_jongguk/Untitled%208.png)
     
 4. 사이드 레터럴 레이즈 30-20(8set) + 플랫 숄더 프레스15(5set) [6:22](https://www.youtube.com/watch?v=Hx8Lc_0hUaI&t=382s)
     
-    ![Untitled](%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AF%20%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%B5%20%E1%84%8B%E1%85%A5%E1%86%B9%E1%84%83%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%89%E1%85%A1%E1%84%85%E1%85%A1%E1%86%B7%E1%84%8B%E1%85%A6%E1%84%80%E1%85%A6%20%E1%84%87%E1%85%A9%E1%84%8B%E1%85%A7%E1%84%8C%E1%85%AE%E1%84%89%E1%85%A6%E1%84%8B%E1%85%AD%20%E1%84%8C%E1%85%A6%2028061ab6604a46ceafdaf935b4a61da5/Untitled%209.png)
+    ![Untitled](https://withmaster.github.io/assets/images/2021-12-15-speed_workout_gym_jongguk/Untitled%209.png)
     
-    ![Untitled](%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AF%20%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%B5%20%E1%84%8B%E1%85%A5%E1%86%B9%E1%84%83%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%89%E1%85%A1%E1%84%85%E1%85%A1%E1%86%B7%E1%84%8B%E1%85%A6%E1%84%80%E1%85%A6%20%E1%84%87%E1%85%A9%E1%84%8B%E1%85%A7%E1%84%8C%E1%85%AE%E1%84%89%E1%85%A6%E1%84%8B%E1%85%AD%20%E1%84%8C%E1%85%A6%2028061ab6604a46ceafdaf935b4a61da5/Untitled%2010.png)
+    ![Untitled](https://withmaster.github.io/assets/images/2021-12-15-speed_workout_gym_jongguk/Untitled%2010.png)
     
-    ![Untitled](%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AF%20%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%B5%20%E1%84%8B%E1%85%A5%E1%86%B9%E1%84%83%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%89%E1%85%A1%E1%84%85%E1%85%A1%E1%86%B7%E1%84%8B%E1%85%A6%E1%84%80%E1%85%A6%20%E1%84%87%E1%85%A9%E1%84%8B%E1%85%A7%E1%84%8C%E1%85%AE%E1%84%89%E1%85%A6%E1%84%8B%E1%85%AD%20%E1%84%8C%E1%85%A6%2028061ab6604a46ceafdaf935b4a61da5/Untitled%2011.png)
+    ![Untitled](https://withmaster.github.io/assets/images/2021-12-15-speed_workout_gym_jongguk/Untitled%2011.png)
     
 5. 케이블 랫풀 다운15-10(6set) + 덤벨 체스트 프레스15-6(6set) [8:22](https://www.youtube.com/watch?v=Hx8Lc_0hUaI&t=502s)
     
-    ![Untitled](%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AF%20%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%B5%20%E1%84%8B%E1%85%A5%E1%86%B9%E1%84%83%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%89%E1%85%A1%E1%84%85%E1%85%A1%E1%86%B7%E1%84%8B%E1%85%A6%E1%84%80%E1%85%A6%20%E1%84%87%E1%85%A9%E1%84%8B%E1%85%A7%E1%84%8C%E1%85%AE%E1%84%89%E1%85%A6%E1%84%8B%E1%85%AD%20%E1%84%8C%E1%85%A6%2028061ab6604a46ceafdaf935b4a61da5/Untitled%2012.png)
+    ![Untitled](https://withmaster.github.io/assets/images/2021-12-15-speed_workout_gym_jongguk/Untitled%2012.png)
     
-    ![Untitled](%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AF%20%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%B5%20%E1%84%8B%E1%85%A5%E1%86%B9%E1%84%83%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%89%E1%85%A1%E1%84%85%E1%85%A1%E1%86%B7%E1%84%8B%E1%85%A6%E1%84%80%E1%85%A6%20%E1%84%87%E1%85%A9%E1%84%8B%E1%85%A7%E1%84%8C%E1%85%AE%E1%84%89%E1%85%A6%E1%84%8B%E1%85%AD%20%E1%84%8C%E1%85%A6%2028061ab6604a46ceafdaf935b4a61da5/Untitled%2013.png)
+    ![Untitled](https://withmaster.github.io/assets/images/2021-12-15-speed_workout_gym_jongguk/Untitled%2013.png)
     
-    ![Untitled](%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AF%20%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%B5%20%E1%84%8B%E1%85%A5%E1%86%B9%E1%84%83%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%89%E1%85%A1%E1%84%85%E1%85%A1%E1%86%B7%E1%84%8B%E1%85%A6%E1%84%80%E1%85%A6%20%E1%84%87%E1%85%A9%E1%84%8B%E1%85%A7%E1%84%8C%E1%85%AE%E1%84%89%E1%85%A6%E1%84%8B%E1%85%AD%20%E1%84%8C%E1%85%A6%2028061ab6604a46ceafdaf935b4a61da5/Untitled%2014.png)
+    ![Untitled](https://withmaster.github.io/assets/images/2021-12-15-speed_workout_gym_jongguk/Untitled%2014.png)
     
 6. 케이블 컬15-10(서서 2set, 앉아서 3set) + 스탠딩 덤벨컬21-12-12 [11:10](https://www.youtube.com/watch?v=Hx8Lc_0hUaI&t=670s)
     
-    ![Untitled](%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AF%20%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%B5%20%E1%84%8B%E1%85%A5%E1%86%B9%E1%84%83%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%89%E1%85%A1%E1%84%85%E1%85%A1%E1%86%B7%E1%84%8B%E1%85%A6%E1%84%80%E1%85%A6%20%E1%84%87%E1%85%A9%E1%84%8B%E1%85%A7%E1%84%8C%E1%85%AE%E1%84%89%E1%85%A6%E1%84%8B%E1%85%AD%20%E1%84%8C%E1%85%A6%2028061ab6604a46ceafdaf935b4a61da5/Untitled%2015.png)
+    ![Untitled](https://withmaster.github.io/assets/images/2021-12-15-speed_workout_gym_jongguk/Untitled%2015.png)
     
-    ![Untitled](%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AF%20%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%B5%20%E1%84%8B%E1%85%A5%E1%86%B9%E1%84%83%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%89%E1%85%A1%E1%84%85%E1%85%A1%E1%86%B7%E1%84%8B%E1%85%A6%E1%84%80%E1%85%A6%20%E1%84%87%E1%85%A9%E1%84%8B%E1%85%A7%E1%84%8C%E1%85%AE%E1%84%89%E1%85%A6%E1%84%8B%E1%85%AD%20%E1%84%8C%E1%85%A6%2028061ab6604a46ceafdaf935b4a61da5/Untitled%2016.png)
+    ![Untitled](https://withmaster.github.io/assets/images/2021-12-15-speed_workout_gym_jongguk/Untitled%2016.png)
     
-    ![Untitled](%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AF%20%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%B5%20%E1%84%8B%E1%85%A5%E1%86%B9%E1%84%83%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%89%E1%85%A1%E1%84%85%E1%85%A1%E1%86%B7%E1%84%8B%E1%85%A6%E1%84%80%E1%85%A6%20%E1%84%87%E1%85%A9%E1%84%8B%E1%85%A7%E1%84%8C%E1%85%AE%E1%84%89%E1%85%A6%E1%84%8B%E1%85%AD%20%E1%84%8C%E1%85%A6%2028061ab6604a46ceafdaf935b4a61da5/Untitled%2017.png)
+    ![Untitled](https://withmaster.github.io/assets/images/2021-12-15-speed_workout_gym_jongguk/Untitled%2017.png)
     
 7. 케이블 푸쉬다운(리버스그립) 15-10(8set) [11:16](https://www.youtube.com/watch?v=Hx8Lc_0hUaI&t=676s)
     
-    ![Untitled](%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AF%20%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%B5%20%E1%84%8B%E1%85%A5%E1%86%B9%E1%84%83%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%89%E1%85%A1%E1%84%85%E1%85%A1%E1%86%B7%E1%84%8B%E1%85%A6%E1%84%80%E1%85%A6%20%E1%84%87%E1%85%A9%E1%84%8B%E1%85%A7%E1%84%8C%E1%85%AE%E1%84%89%E1%85%A6%E1%84%8B%E1%85%AD%20%E1%84%8C%E1%85%A6%2028061ab6604a46ceafdaf935b4a61da5/Untitled%2018.png)
+    ![Untitled](https://withmaster.github.io/assets/images/2021-12-15-speed_workout_gym_jongguk/Untitled%2018.png)
     
 8. 마무리 + 복근
     
-    ![Untitled](%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AF%20%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%B5%20%E1%84%8B%E1%85%A5%E1%86%B9%E1%84%83%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%89%E1%85%A1%E1%84%85%E1%85%A1%E1%86%B7%E1%84%8B%E1%85%A6%E1%84%80%E1%85%A6%20%E1%84%87%E1%85%A9%E1%84%8B%E1%85%A7%E1%84%8C%E1%85%AE%E1%84%89%E1%85%A6%E1%84%8B%E1%85%AD%20%E1%84%8C%E1%85%A6%2028061ab6604a46ceafdaf935b4a61da5/Untitled%2019.png)
+    ![Untitled](https://withmaster.github.io/assets/images/2021-12-15-speed_workout_gym_jongguk/Untitled%2019.png)
     
-    ![Untitled](%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AF%20%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%B5%20%E1%84%8B%E1%85%A5%E1%86%B9%E1%84%83%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%89%E1%85%A1%E1%84%85%E1%85%A1%E1%86%B7%E1%84%8B%E1%85%A6%E1%84%80%E1%85%A6%20%E1%84%87%E1%85%A9%E1%84%8B%E1%85%A7%E1%84%8C%E1%85%AE%E1%84%89%E1%85%A6%E1%84%8B%E1%85%AD%20%E1%84%8C%E1%85%A6%2028061ab6604a46ceafdaf935b4a61da5/Untitled%2020.png)
+    ![Untitled](https://withmaster.github.io/assets/images/2021-12-15-speed_workout_gym_jongguk/Untitled%2020.png)
     
 
 ## 종국 형님의 추가 조언
 
 1. 다른 방향의 운동을 섞기
     
-    ![Untitled](%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AF%20%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%B5%20%E1%84%8B%E1%85%A5%E1%86%B9%E1%84%83%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%89%E1%85%A1%E1%84%85%E1%85%A1%E1%86%B7%E1%84%8B%E1%85%A6%E1%84%80%E1%85%A6%20%E1%84%87%E1%85%A9%E1%84%8B%E1%85%A7%E1%84%8C%E1%85%AE%E1%84%89%E1%85%A6%E1%84%8B%E1%85%AD%20%E1%84%8C%E1%85%A6%2028061ab6604a46ceafdaf935b4a61da5/Untitled%2021.png)
+    ![Untitled](https://withmaster.github.io/assets/images/2021-12-15-speed_workout_gym_jongguk/Untitled%2021.png)
     
 2. 자극을 조금 더 주는 방법
     
-    ![Untitled](%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AF%20%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%B5%20%E1%84%8B%E1%85%A5%E1%86%B9%E1%84%83%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%89%E1%85%A1%E1%84%85%E1%85%A1%E1%86%B7%E1%84%8B%E1%85%A6%E1%84%80%E1%85%A6%20%E1%84%87%E1%85%A9%E1%84%8B%E1%85%A7%E1%84%8C%E1%85%AE%E1%84%89%E1%85%A6%E1%84%8B%E1%85%AD%20%E1%84%8C%E1%85%A6%2028061ab6604a46ceafdaf935b4a61da5/Untitled%2022.png)
+    ![Untitled](https://withmaster.github.io/assets/images/2021-12-15-speed_workout_gym_jongguk/Untitled%2022.png)
     
 3. 후면 삼각근 키우기
     
-    ![Untitled](%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AF%20%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%B5%20%E1%84%8B%E1%85%A5%E1%86%B9%E1%84%83%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%89%E1%85%A1%E1%84%85%E1%85%A1%E1%86%B7%E1%84%8B%E1%85%A6%E1%84%80%E1%85%A6%20%E1%84%87%E1%85%A9%E1%84%8B%E1%85%A7%E1%84%8C%E1%85%AE%E1%84%89%E1%85%A6%E1%84%8B%E1%85%AD%20%E1%84%8C%E1%85%A6%2028061ab6604a46ceafdaf935b4a61da5/Untitled%2023.png)
+    ![Untitled](https://withmaster.github.io/assets/images/2021-12-15-speed_workout_gym_jongguk/Untitled%2023.png)
     
 4. 심장 운동 관련
     
-    ![Untitled](%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AF%20%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%B5%20%E1%84%8B%E1%85%A5%E1%86%B9%E1%84%83%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%89%E1%85%A1%E1%84%85%E1%85%A1%E1%86%B7%E1%84%8B%E1%85%A6%E1%84%80%E1%85%A6%20%E1%84%87%E1%85%A9%E1%84%8B%E1%85%A7%E1%84%8C%E1%85%AE%E1%84%89%E1%85%A6%E1%84%8B%E1%85%AD%20%E1%84%8C%E1%85%A6%2028061ab6604a46ceafdaf935b4a61da5/Untitled%2024.png)
+    ![Untitled](https://withmaster.github.io/assets/images/2021-12-15-speed_workout_gym_jongguk/Untitled%2024.png)
     
 
 ## 마치며.
