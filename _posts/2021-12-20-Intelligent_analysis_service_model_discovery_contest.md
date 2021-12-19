@@ -1,8 +1,16 @@
-# 지능형 분석 서비스 모델 발굴 공모전
+---
+title:  "지능형 분석 서비스 모델 발굴 공모전"
+excerpt: "중소벤처24에서 주관하는 공모전에 대해 알아보자."
 
-Created: 2021년 12월 19일 오후 10:08
-Posting: No
-URL: https://www.smes.go.kr/index
+toc: true
+toc_sticky: true
+toc_label: "주요 목차"
+
+categories:
+  - 대회
+tags:
+  - contest
+---
 
 [https://www.smes.go.kr/index](https://www.smes.go.kr/index)
 
