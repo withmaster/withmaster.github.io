@@ -22,9 +22,7 @@ tags:
         - 중소벤처24 보유 중소기업 경영정보 데이터
         - 중소벤처24 Open API 제공 데이터
         - 중소벤처24로 통합된 분야별 서비스 기능
-        
         > 위 데이터 및 기능을 활용한 중소/벤처/소상공인을 위한 지능형 분석 서비스 모델 제시
-        > 
         - [ ]  세부 내용
             - 중소벤처24 보유 중소기업 경영정보 데이터
             - 중소벤처24 Open API 제공 데이터
@@ -54,64 +52,49 @@ tags:
         > 공개된 공공데이터를 활용한 중소/벤처/소상공인을 위한 지능형 분석 서비스 모델 제시
         > 
         - [ ]  세부 내용
-            - 데이터스토어
-                
+            - 데이터스토어                
                 [https://www.datastore.or.kr/](https://www.datastore.or.kr/)
                 
-            - 공공데이터포털
-                
+            - 공공데이터포털                
                 [https://www.data.go.kr/](https://www.data.go.kr/)
                 
-            - AI Hub
-                
+            - AI Hub                
                 [https://aihub.or.kr/](https://aihub.or.kr/)
                 
-            - 보건의료빅데이터개방시스템
-                
+            - 보건의료빅데이터개방시스템                
                 [https://opendata.hira.or.kr/home.do](https://opendata.hira.or.kr/home.do)
                 
-            - 한국데이터거래소
-                
+            - 한국데이터거래소                
                 [https://kdx.kr/data/list](https://kdx.kr/data/list)
                 
-            - 통신 빅데이터 플랫폼
-                
+            - 통신 빅데이터 플랫폼                
                 [https://bdp.kt.co.kr/invoke/SOKBP0000/](https://bdp.kt.co.kr/invoke/SOKBP0000/)
                 
-            - 빅데이터 마켓C
-                
+            - 빅데이터 마켓C                
                 [https://www.culture.go.kr/bigdata/user/main.do](https://www.culture.go.kr/bigdata/user/main.do)
                 
-            - 교통 데이터 거래소
-                
+            - 교통 데이터 거래소                
                 [https://www.bigdata-transportation.kr/](https://www.bigdata-transportation.kr/)
                 
-            - 중소중견기업 데이터 유통포털
-                
+            - 중소중견기업 데이터 유통포털                
                 [https://datastore.wehago.com/#/datastore/landing](https://datastore.wehago.com/#/datastore/landing)
                 
-            - 경기지역경제포털
-                
+            - 경기지역경제포털                
                 [https://bigdata-region.kr/#/](https://bigdata-region.kr/#/)
                 
-            - 서울 열린데이터 광장
-                
+            - 서울 열린데이터 광장                
                 [https://data.seoul.go.kr/](https://data.seoul.go.kr/)
                 
-            - 산림빅데이터거래소
-                
+            - 산림빅데이터거래소                
                 [https://www.bigdata-forest.kr/](https://www.bigdata-forest.kr/)
                 
-            - 기상자료개방포털
-                
+            - 기상자료개방포털                
                 [https://data.kma.go.kr/cmmn/main.do](https://data.kma.go.kr/cmmn/main.do)
                 
-            - 건축데이터개방
-                
+            - 건축데이터개방                
                 [https://open.eais.go.kr/main/main.do](https://open.eais.go.kr/main/main.do)
                 
-            - 기타
-                
+            - 기타                
                 그 외 공공데이터 포털을 참조
                 
     3. 중기부 관련사이트 서비스 활용 지능형 분석 서비스
