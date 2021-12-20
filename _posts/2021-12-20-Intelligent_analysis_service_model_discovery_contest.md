@@ -12,7 +12,13 @@ tags:
   - contest
 ---
 
-[https://www.smes.go.kr/index](https://www.smes.go.kr/index)
+
+
+## 0. 개요
+중소벤처24는 기업 관련 인증·증명(확인)서 발급 및 지원사업 안내·신청, 중기부 소관 민원 등 중소벤처기업부 산하 다양한 기관에 흩어져 제공되던 서비스를 한 곳에서 통합 제공하는 중소벤처기업을 위한 포털입니다.
+제공되는 서비스가 많은데, 오늘 알아볼 건 데이터 관련 공모전에 관한 것입니다.
+
+관련 링크: [https://www.smes.go.kr/index](https://www.smes.go.kr/index)
 
 ## 1. 공모 내용
 
@@ -52,50 +58,36 @@ tags:
         > 공개된 공공데이터를 활용한 중소/벤처/소상공인을 위한 지능형 분석 서비스 모델 제시
         > 
         - [ ]  세부 내용
-            - 데이터스토어                
+            - 데이터스토어 
                 [https://www.datastore.or.kr/](https://www.datastore.or.kr/)
                 
-            - 공공데이터포털                
-                [https://www.data.go.kr/](https://www.data.go.kr/)
+            - 공공데이터포털 [https://www.data.go.kr/](https://www.data.go.kr/)
                 
-            - AI Hub                
-                [https://aihub.or.kr/](https://aihub.or.kr/)
+            - AI Hub [https://aihub.or.kr/](https://aihub.or.kr/)
                 
-            - 보건의료빅데이터개방시스템                
-                [https://opendata.hira.or.kr/home.do](https://opendata.hira.or.kr/home.do)
+            - 보건의료빅데이터개방시스템 [https://opendata.hira.or.kr/home.do](https://opendata.hira.or.kr/home.do)
                 
-            - 한국데이터거래소                
-                [https://kdx.kr/data/list](https://kdx.kr/data/list)
+            - 한국데이터거래소 [https://kdx.kr/data/list](https://kdx.kr/data/list)
                 
-            - 통신 빅데이터 플랫폼                
-                [https://bdp.kt.co.kr/invoke/SOKBP0000/](https://bdp.kt.co.kr/invoke/SOKBP0000/)
+            - 통신 빅데이터 플랫폼 [https://bdp.kt.co.kr/invoke/SOKBP0000/](https://bdp.kt.co.kr/invoke/SOKBP0000/)
                 
-            - 빅데이터 마켓C                
-                [https://www.culture.go.kr/bigdata/user/main.do](https://www.culture.go.kr/bigdata/user/main.do)
+            - 빅데이터 마켓C [https://www.culture.go.kr/bigdata/user/main.do](https://www.culture.go.kr/bigdata/user/main.do)
                 
-            - 교통 데이터 거래소                
-                [https://www.bigdata-transportation.kr/](https://www.bigdata-transportation.kr/)
+            - 교통 데이터 거래소 [https://www.bigdata-transportation.kr/](https://www.bigdata-transportation.kr/)
                 
-            - 중소중견기업 데이터 유통포털                
-                [https://datastore.wehago.com/#/datastore/landing](https://datastore.wehago.com/#/datastore/landing)
+            - 중소중견기업 데이터 유통포털 [https://datastore.wehago.com/#/datastore/landing](https://datastore.wehago.com/#/datastore/landing)
                 
-            - 경기지역경제포털                
-                [https://bigdata-region.kr/#/](https://bigdata-region.kr/#/)
+            - 경기지역경제포털 [https://bigdata-region.kr/#/](https://bigdata-region.kr/#/)
                 
-            - 서울 열린데이터 광장                
-                [https://data.seoul.go.kr/](https://data.seoul.go.kr/)
+            - 서울 열린데이터 광장 [https://data.seoul.go.kr/](https://data.seoul.go.kr/)
                 
-            - 산림빅데이터거래소                
-                [https://www.bigdata-forest.kr/](https://www.bigdata-forest.kr/)
+            - 산림빅데이터거래소 [https://www.bigdata-forest.kr/](https://www.bigdata-forest.kr/)
                 
-            - 기상자료개방포털                
-                [https://data.kma.go.kr/cmmn/main.do](https://data.kma.go.kr/cmmn/main.do)
+            - 기상자료개방포털 [https://data.kma.go.kr/cmmn/main.do](https://data.kma.go.kr/cmmn/main.do)
                 
-            - 건축데이터개방                
-                [https://open.eais.go.kr/main/main.do](https://open.eais.go.kr/main/main.do)
+            - 건축데이터개방 [https://open.eais.go.kr/main/main.do](https://open.eais.go.kr/main/main.do)
                 
-            - 기타                
-                그 외 공공데이터 포털을 참조
+            - 기타 : 그 외 공공데이터 포털을 참조
                 
     3. 중기부 관련사이트 서비스 활용 지능형 분석 서비스
         - 중소벤처기업부 관련사이트(약40개 내외)에서 제공되는 서비스를 활용한 중소벤처24의 지능형 분석 서비스 모델 제시
