@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "mint" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "sunrise" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko" # "en-US"
-title                    : "WithMaster"
+title                    : "With Master"
 title_separator          : "-"
-subtitle                 : Ver 2.0 # site tagline that appears below site title in masthead
-name                     : "전문가와 함께 - With Master"
+subtitle                 : "Ver 2.1" # site tagline that appears below site title in masthead
+name                     : "With Master"
 description              : "계획, 실행, 점검"
 url                      : https://withmaster.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -41,7 +41,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
   utterances:
-    theme                : "github-light" # "github-light" (default), "github-dark" "boxy-light"
+    theme                : "boxy-light" # "github-light" (default), "github-dark" "boxy-light"
     issue_term           : "pathname" # (default)
 
   giscus:
@@ -104,9 +104,9 @@ analytics:
 author:
   name             : "Steve Lee"
   avatar           : "/assets/images/mintpizza-500×300.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Zero To One"
+  bio              : "계획, 실행 그리고 점검"
   location         : "Seoul, South Korea"
-  email            : fanshape@gmail.com
+  email            : fanshape@mintpizza.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -216,7 +216,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 10 # amount of posts to show
+paginate: 20 # amount of posts to show
 paginate_path: /page:num/
 timezone: Asia/Seoul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
