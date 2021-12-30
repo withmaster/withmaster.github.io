@@ -12,7 +12,7 @@ tags:
   - bigdata, 서대호
 ---
 
-![Untitled](https://withmaster.github.io/assets/images/2021-12-26-How_to_become_bigdata_expert_2/Untitled.png)
+![Untitled](https://withmaster.github.io/assets/images/2021-12-31-How_to_become_bigdata_expert_2/Untitled.png)
 
 ## Intro
 - 목차 및 공부를 위해 필요한 내용을 간략하게 정리한 것입니다.
